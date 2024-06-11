@@ -15,7 +15,7 @@ This is a book engine that takes Google Books API search engine built with a RES
 
 # Demo
 
-[Screenshot of deployed application]
+[Screenshot of deployed application] (Assets/screenshot.png)
 
 Link to deployed application:
 
@@ -29,7 +29,7 @@ To install this project you can either perform a git clone in your command-line 
 
 # Usage
 
-To use this project, git clone the repository and run npm i and them npm run dev
+To use this project, git clone the repository and run npm i and them npm run develop
 Or you can visit the deployed application here:
 
 Then search for your books!
